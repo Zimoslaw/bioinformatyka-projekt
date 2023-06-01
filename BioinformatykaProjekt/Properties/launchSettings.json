@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BioinformatykaProjekt": {
+      "commandName": "Project",
+      "commandLineArgs": "b pos 2 4 6 8 10"
+    }
+  }
+}
